@@ -1,2 +1,2 @@
 # Drupal
-This Repo contains the templates and examples based on Drupal 8
+This Repo contains the templates and examples based on Drupal.
